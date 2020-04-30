@@ -1,3 +1,4 @@
+$
 shadowsocks-zeit
 ==================
 
